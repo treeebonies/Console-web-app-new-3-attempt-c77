@@ -1,0 +1,18 @@
+#h1 {
+    color: brown;
+    font-weight:350;
+    font-size:40;
+}
+#usethis {
+    color:darkgreen;
+    font-size:20;
+    font-weight:190;
+}
+#trythis {
+    color:darkgreen;
+    font-size:20;
+    font-weight:190;
+}
+body{
+    background-color: darkseagreen;
+}
